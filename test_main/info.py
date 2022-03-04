@@ -1,0 +1,5 @@
+EMAIL_USE_TLS=True
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_HOST_USER='loginform2020@gmail.com'
+EMAIL_HOST_PASSWORD='RDS@1234'
+EMAIL_PORT=587
